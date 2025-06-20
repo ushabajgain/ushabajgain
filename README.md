@@ -7,7 +7,7 @@
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -28,7 +28,7 @@
 
 ---
 
-### 🚀 Project Highlights
+### Project Highlights
 
 - **[NYC 311 Customer Service Request System Analysis](https://github.com/ushabajgain/NYC-311-Customer-Service-Request-System-Analysis.git)**  
   Performed exploratory data analysis and data cleaning on NYC 311 service requests.  
@@ -56,7 +56,7 @@
   
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <table align="center">
   <tr>
@@ -69,14 +69,14 @@
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/usha-bajgain-1683282a7/)
 - [Instagram](https://www.instagram.com/usharchivess/)
 
 ---
 
-### 💡 Developer Mantra
+### Developer Mantra
 
 > “A person who never made a mistake never tried anything new.” – Albert Einstein
 
