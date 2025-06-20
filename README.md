@@ -60,7 +60,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ushabajgain&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ushabajgain&theme=tokyonight" alt="GitHub Streak" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ushabajgain&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
 </p>
 
@@ -73,7 +72,7 @@
 
 ---
 
-### 💭 Dev Quote
+### 💡 Developer Mantra
 
 > “A person who never made a mistake never tried anything new.” – Albert Einstein
 
