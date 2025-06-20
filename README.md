@@ -58,13 +58,13 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ushabajgain&theme=tokyonight" alt="GitHub Streak" style="margin-bottom: 20px;" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=ushabajgain&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="margin-bottom: 20px;" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ushabajgain&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=ushabajgain&theme=tokyonight" alt="GitHub Streak"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=ushabajgain&show_icons=true&theme=tokyonight" alt="GitHub Stats"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ushabajgain&layout=compact&theme=tokyonight" alt="Top Languages"/></td>
+  </tr>
+</table>
 
 
 ---
