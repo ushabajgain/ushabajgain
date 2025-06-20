@@ -35,7 +35,7 @@
   🛠️ *Tech Stack:* Python, Pandas, Matplotlib
 
 
-- **Real-World Restaurant Sales & Returns Analysis**  
+- **[Real-World Restaurant Sales & Returns Analysis](https://github.com/ushabajgain/Restaurant_Sales_Analysis.git)**  
   Analyzed real sales data from Yangtaru Barbecue (Ashwin 2081) to uncover trends and insights.  
   🛠️ *Tech Stack:* Python, Pandas, Matplotlib
 
