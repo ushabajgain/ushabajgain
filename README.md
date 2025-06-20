@@ -30,9 +30,10 @@
 
 ### 🚀 Project Highlights
 
-- **NYC 311 Customer Service Request System Analysis**  
+- **[NYC 311 Customer Service Request System Analysis](https://github.com/ushabajgain/NYC-311-Customer-Service-Request-System-Analysis.git)**  
   Performed exploratory data analysis and data cleaning on NYC 311 service requests.  
   🛠️ *Tech Stack:* Python, Pandas, Matplotlib
+
 
 - **Real-World Restaurant Sales & Returns Analysis**  
   Analyzed real sales data from Yangtaru Barbecue (Ashwin 2081) to uncover trends and insights.  
