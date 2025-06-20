@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Usha Bajgain</h1>
-<p align="center">
+Hi 👋, I'm Usha Bajgain</h1>
+
   I'm an aspiring developer with a strong interest in learning how technology can solve real-world problems. I’m currently building my skills in programming and data handling through hands-on projects and continuous learning.
 
 </p>
