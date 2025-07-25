@@ -35,21 +35,9 @@
   Analyzed real sales data from Yangtaru Barbecue (Ashwin 2081) to uncover trends and insights.  
   🛠️ *Tech Stack:* Python, Pandas, Matplotlib
 
-- **[Land Rental System](https://github.com/ushabajgain/Land-Rental-System.git)**  
-  Console-based application to manage land rentals, update availability, and generate invoices.  
-  🛠️ *Tech Stack:* Python
-
-- **[Task Manager Application](https://github.com/ushabajgain/Task-Manager.git)**  
-  Web-based task manager for creating, updating, and tracking tasks with authentication.  
-  🛠️ *Tech Stack:* Python (Django), HTML, CSS
-
 - **[BookMyDoc - Hospital Booking System](https://github.com/ushabajgain/BookMyDoc.git)**  
   Web app for booking doctor appointments with admin and patient roles.  
   🛠️ *Tech Stack:* Java EE (Servlets, JSP), HTML, CSS, JSTL, MySQL/Oracle (MVC Architecture)
-
-- **[Bin to Win - E-Commerce Website](https://github.com/ushabajgain/E-Commerce-Website-Bin-to-Win-.git)**  
-  Modular e-commerce platform with product browsing, custom cart features, and user login.  
-  🛠️ *Tech Stack:* React.js, TypeScript, Django, SQLite
   
 ---
 
