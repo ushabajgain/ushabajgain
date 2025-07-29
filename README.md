@@ -5,21 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Learning-Django-44cc11?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-0078D4?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Focus-Data%20Projects-orange?style=for-the-badge&logo=chartbar&logoColor=white"/>
-</p>
-
-<p align="center">
-  <b>
-    🔎 Currently diving deep into Django<br>
-    🛠️ Exploring how backend logic meets real-world data<br>
-    🚀 Fueling my growth through continuous learning and hands-on projects!
-  </b>
-</p>
-
-
-<p align="center">
   <a href="https://www.linkedin.com/in/usha-bajgain-1683282a7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
