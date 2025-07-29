@@ -2,7 +2,10 @@
 
 <div align="center">
 
+ <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&width=500&lines=Aspiring+Developer+%F0%9F%92%BB;Django+Intern+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing animation" />
+</div>
+
 
   <br><br>
 
