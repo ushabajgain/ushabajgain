@@ -33,19 +33,21 @@
 
 ## GitHub Stats
 
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ushabajgain&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ushabajgain&layout=compact&theme=tokyonight" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ushabajgain&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ushabajgain&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ushabajgain&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
 
 ## Connect with Me
 
