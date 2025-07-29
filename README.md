@@ -10,20 +10,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&width=500&lines=Aspiring+Developer+%F0%9F%92%BB;Tech+Enthusiast+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing animation" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Technology%20for%20Good-%23F97316?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Learn%20by%20Doing-%2300C49A?style=for-the-badge&logo=progress&logoColor=white"/>
   <img src="https://img.shields.io/badge/Data%20Driven-%233B82F6?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
-
-<p align="center">
-  Currently sharpening my skills in programming and data analysis through<br>
-  hands-on projects and continuous learning 📚✨
-</p>
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/usha-bajgain-1683282a7/" target="_blank">
