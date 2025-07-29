@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Usha Bajgain</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&width=500&lines=Aspiring+Developer+%F0%9F%92%BB;Tech+Enthusiast+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&width=500&lines=Aspiring+Developer+%F0%9F%92%BB;Django+Intern+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -15,7 +15,6 @@
   hands-on projects and continuous learning 
 </p>
 
----
 
 <p align="center">
   <a href="https://www.linkedin.com/in/usha-bajgain-1683282a7/" target="_blank">
