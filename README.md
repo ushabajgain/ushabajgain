@@ -4,19 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Aspiring+Developer+💻;Django+Intern+🚀;Problem+Solver+🧑‍💻" alt="Typing Animation">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Learning-Django-44cc11?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-0078D4?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Focus-Data%20Projects-orange?style=for-the-badge&logo=chartbar&logoColor=white"/>
-</p>
-
-<p align="center">
-  <b>
-    🔎 Currently diving deep into Django<br>
-    🛠️ Exploring how backend logic meets real-world data<br>
-    🚀 Fueling my growth through continuous learning and hands-on projects!
-  </b>
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/usha-bajgain-1683282a7/" target="_blank">
@@ -29,7 +16,7 @@
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -47,7 +34,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <table align="center">
   <tr>
@@ -66,7 +53,7 @@
 
 ---
 
-## 🌟 Developer Mantra
+## Developer Mantra
 
 <p align="center">
   <img src="https://media.giphy.com/media/OmK8lulOMQ9XO/giphy.gif" width="80" alt="Flying Bird Gif">
