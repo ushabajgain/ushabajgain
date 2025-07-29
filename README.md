@@ -1,13 +1,18 @@
 <h1 align="center">👋 Hi there, I'm Usha Bajgain</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&width=500&lines=Aspiring+Developer+%F0%9F%92%BB;Django+Intern+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing animation" />
-</p>
+<div align="center">
 
-<p align="center">
-  Currently sharpening my skills in django through<br>
-  hands-on projects and continuous learning 
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&width=500&lines=Aspiring+Developer+%F0%9F%92%BB;Django+Intern+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing animation" />
+
+  <br><br>
+
+  <strong>
+    Currently sharpening my skills in Django through<br>
+    hands-on projects and continuous learning 🌱💻
+  </strong>
+
+</div>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Technology%20for%20Good-%23F97316?style=for-the-badge&logo=github&logoColor=white"/>
