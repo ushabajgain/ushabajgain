@@ -31,26 +31,6 @@
 
 ---
 
-## Project Highlights
-
-### [NYC 311 Customer Service Request System Analysis](https://github.com/ushabajgain/NYC-311-Customer-Service-Request-System-Analysis.git)
-- Performed exploratory data analysis and data cleaning on NYC 311 service request data.
-- **Tech Used:** Python, Pandas, Matplotlib
-
----
-
-### [Real-World Restaurant Sales & Returns Analysis](https://github.com/ushabajgain/Restaurant_Sales_Analysis.git)
-- Analyzed sales from Yangtaru Barbecue to identify trends and optimize operations.
-- **Tech Used:** Python, Pandas, Matplotlib
-
----
-
-### [BookMyDoc - Hospital Booking System](https://github.com/ushabajgain/BookMyDoc.git)
-- A web app for booking doctor appointments with admin and patient roles.
-- **Tech Used:** Java EE (Servlets, JSP), HTML, CSS, JSTL, MySQL/Oracle (MVC Architecture)
-
----
-
 ## GitHub Stats
 
 <p align="center">
