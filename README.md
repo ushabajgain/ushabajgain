@@ -14,7 +14,7 @@
   </a>
 </p>
 
----
+
 
 ## Tech Stack
 
@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
----
+
 
 ## GitHub Stats
 
@@ -51,7 +51,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ushabajgain&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
----
+
 
 ## Developer Mantra
 
