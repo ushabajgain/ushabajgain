@@ -55,10 +55,6 @@
 
 ## Developer Mantra
 
-<p align="center">
-  <img src="https://media.giphy.com/media/OmK8lulOMQ9XO/giphy.gif" width="80" alt="Flying Bird Gif">
-</p>
-
 <blockquote align="center">
   <em>“A person who never made a mistake never tried anything new.”</em><br>
   <strong>– Albert Einstein</strong>
